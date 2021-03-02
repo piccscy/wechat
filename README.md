@@ -23,4 +23,4 @@ composer require pithyone/wechat
 
 ## License
 
-[MIT](https://github.com/pithyone/wechat/blob/master/LICENSE)
+[MIT](https://github.com/piccscy/wechat/blob/master/LICENSE)
